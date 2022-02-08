@@ -19,6 +19,11 @@ export default function Home() {
             <a>snzy</a>
           </Link>
         </li>
+        <li>
+          <Link href="/three/basic">
+            <a>three basic</a>
+          </Link>
+        </li>
       </ul>
     </div>
   );
